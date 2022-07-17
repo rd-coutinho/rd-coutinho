@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Renato Domingues Coutinho and I love working with data and everything related to technology. I'm very passionate about data science, programming and app developmnet. Allocating my time towards studying cutting-edge technology and project development on interesting things like artificial intelligence is something that really makes me feel excited. I'm graduate from Universidade de São Paulo (USP), Brazil, and currently doing an MBA in Data Science and Analytics.
+My name is Renato Domingues Coutinho and I love working with data and everything related to technology. I'm very passionate about data science, programming and app development. Allocating my time towards studying cutting-edge technology and project development on interesting things like artificial intelligence is something that really makes me feel excited. I'm graduate from Universidade de São Paulo (USP), Brazil, and currently doing an MBA in Data Science and Analytics.
 
 - 🔭 I'm currently working as a data analyst, also having experience as a full stack web developer and as a data scientist working with machine learning and deep learning algorithms.
 - 🌱 I’m currently learning data engineering frameworks like Apache Airlflow and Apache Spark (PySpark).
